@@ -50,3 +50,14 @@ This log summarizes the development and debugging tasks performed today.
 - **Task:** Create a `todo.md` file summarizing all completed tasks.
 - **Action:**
     - Created `todo.md` with a checklist of all the tasks performed during the session.
+
+## 6. Refactoring and Code Update
+
+- **Task:** Remove the Iris dataset feature from the application.
+- **Action:**
+    - Modified `todo.md` to remove the Iris dataset task.
+    - Modified `app.py` to remove the Iris dataset feature and simplify the application.
+- **Task:** Update the GitHub repository.
+- **Action:**
+    - Committed the changes with the message "Remove Iris dataset feature".
+    - Pushed the changes to the remote GitHub repository.

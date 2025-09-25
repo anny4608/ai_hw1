@@ -26,7 +26,7 @@ During the deployment phase, several technical challenges were encountered and r
 
 ## 4. Final Status
 
-The Streamlit application is fully functional and focuses on demonstrating linear regression with synthetic data. The application is running and accessible at http://localhost:8501.
+The Streamlit application is fully functional and focuses on demonstrating linear regression with synthetic data. The application is running and accessible at https://aisecurityhw1.streamlit.app/
 
 ## 5. How to Run the Application
 

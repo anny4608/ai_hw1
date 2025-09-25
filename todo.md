@@ -1,10 +1,8 @@
 # Todo List - Completed Tasks
 
 - [x] Create initial `todo1.md` file.
-- [x] Develop Streamlit application for linear regression.
-    - [x] Create `app.py` with Synthetic Data and Iris Dataset tabs.
-    - [x] Create `requirements.txt` for dependencies.
-    - [x] Create `README.md` with running instructions.
+- [x] Develop Streamlit application for linear regression with synthetic data.
+- [x] Create `app.py`, `requirements.txt`, and `README.md`.
 - [x] Install application dependencies.
 - [x] Run and debug the Streamlit application.
     - [x] Resolved `streamlit` command not found issue.

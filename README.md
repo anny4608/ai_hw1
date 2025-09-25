@@ -1,3 +1,10 @@
+## Homework 1 for the NCHU_AI security program
+
+HW1: linear regression using streamlit
+
+## Demo site 
+https://aisecurityhw1.streamlit.app/
+
 # Linear Regression Streamlit App
 
 This application demonstrates linear regression using both synthetic data and the Iris dataset.
@@ -15,6 +22,9 @@ This application demonstrates linear regression using both synthetic data and th
     ```
 
     The application should open in your web browser.
+
+
+
 
 ## Deploying to Streamlit Community Cloud (Optional)
 
